@@ -1,5 +1,5 @@
 """
-projekt_1.py: first project for Engeto Online Python Academy
+project_1.py: first project for Engeto Online Python Academy
 author: Radka Štorchová
 email: r.storchova@gmail.com
 discord: radkastorchova
